@@ -7,6 +7,7 @@ A React Native application with Expo support which retrieves 10 random jokes fro
 - Interactive, fun animations!
 - On refresh, load 10 new jokes
 - Built on Expo
+- Includes 10 local jokes (with the first being my own joke addition!) to test local storage
 
 ## TO RUN:
 npm start
